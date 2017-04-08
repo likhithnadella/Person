@@ -198,8 +198,11 @@ hr {
 	display: inline-block;
 }
 #about p {
-	margin-top: 20px;
-	margin-bottom: 30px;
+	color:#58798c;
+	margin: 0;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 1px;
 }
 /* Skills Section */
 #skills {
